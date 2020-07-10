@@ -1,0 +1,9 @@
+Sudo dnf install autoconf
+sudo dnf install automake
+sudo dnf install libtool
+sudo dnf install gcc-c++
+sudo dnf install libdb4-cxx (maybe idk)
+sudo dnf install libdb4-cxx-devel
+sudo dnf install boost-devel
+sudo dnf install openssl-devel
+sudo dnf install libevent-devel
